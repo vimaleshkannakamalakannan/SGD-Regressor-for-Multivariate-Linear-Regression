@@ -51,7 +51,8 @@ print("\nPredictions:\n",y_pred[:5])
 ```
 
 ## Output:
-<img width="427" height="337" alt="image" src="https://github.com/user-attachments/assets/80e28649-8a44-4676-ba1b-c16fd7bcbf0f" />
+<img width="396" height="342" alt="image" src="https://github.com/user-attachments/assets/bf5789c8-13ef-490e-978b-195821702637" />
+
 
 
 
